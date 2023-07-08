@@ -1,0 +1,25 @@
+body{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(205,148,233,1) 100%);
+}
+section{
+    margin-top: 100px;
+}
+.register-form{
+    max-width: 600px; 
+   margin-top: 50px; 
+}
+.back-to-home-div{
+    margin-top: 30px;
+}
+.home-btn{
+    color: rgb(14, 135, 241);
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline  2px;
+}
+.home-btn :hover{
+    color: aliceblue;
+    
+}
